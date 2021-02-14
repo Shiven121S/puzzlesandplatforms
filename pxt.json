@@ -11,7 +11,8 @@
         "block-menu": "github:riknoll/arcade-custom-menu#v0.0.1",
         "character-animations": "github:riknoll/character-animations#v0.3.0",
         "Color Fading": "github:jwunderl/pxt-color#v0.2.0",
-        "arcade-text": "github:microsoft/arcade-text#v1.3.0"
+        "arcade-text": "github:microsoft/arcade-text#v1.3.0",
+        "story": "github:riknoll/arcade-story#v1.3.1"
     },
     "files": [
         "main.blocks",
